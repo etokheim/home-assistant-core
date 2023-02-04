@@ -1096,6 +1096,8 @@ build.json @home-assistant/supervisor
 /tests/components/samsungtv/ @chemelli74 @epenet
 /homeassistant/components/scene/ @home-assistant/core
 /tests/components/scene/ @home-assistant/core
+/homeassistant/components/scene_extrapolation/ @etokheim
+/tests/components/scene_extrapolation/ @etokheim
 /homeassistant/components/schedule/ @home-assistant/core
 /tests/components/schedule/ @home-assistant/core
 /homeassistant/components/schlage/ @dknowles2
