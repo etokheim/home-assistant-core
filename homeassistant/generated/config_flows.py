@@ -410,6 +410,7 @@ FLOWS = {
         "sabnzbd",
         "samsungtv",
         "schlage",
+        "scene_extrapolation",
         "scrape",
         "screenlogic",
         "season",

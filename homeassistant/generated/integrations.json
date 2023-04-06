@@ -4912,6 +4912,11 @@
       "integration_type": "hub",
       "config_flow": true,
       "iot_class": "cloud_polling"
+    "scene_extrapolation": {
+      "name": "Scene Extrapolation",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
     },
     "schluter": {
       "name": "Schluter",
